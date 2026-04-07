@@ -64,9 +64,6 @@ in any modern web browser.
 ## 📌 Internship Task
 
 This project was created as part of the **CodeAlpha Frontend Development Internship Program** to demonstrate frontend skills using JavaScript and modern UI design.
-Live Website
-
-https://vrajparekh1312.github.io/CodeAlpha_Calculator/
 
 ---
 
